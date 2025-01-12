@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "proflie.png"
+  avatar           : "My_proflie.png"
   name             : "WenKang Sun"
   pronouns         : # example: "she/her"  
-  bio              : "Strive not to be a success, but rather to be of value.'"
+  bio              : "Strive not to be a success, but rather to be of value."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
