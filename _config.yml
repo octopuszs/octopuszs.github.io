@@ -28,7 +28,7 @@ author:
   location         : "China QingTao"
   employer         : 
   uri              : 
-  email            : "1145623872@qq.com" 
+  email            : #"1145623872@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
